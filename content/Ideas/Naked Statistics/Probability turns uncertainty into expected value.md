@@ -7,6 +7,6 @@ tags:
   - decision-making
 ---
 
-Probability lets us reason about an uncertain future by weighting each outcome by its likelihood — the expected value. Good decisions under uncertainty (insurance, gambling, investing, screening tests) come from comparing expected values rather than reacting to single outcomes. It is the same distributional thinking that powers [[The Central Limit Theorem makes inference possible|inference]]: individual events are unpredictable, but their aggregate behavior is lawful.
+Probability lets us reason about an uncertain future by weighting each outcome by its likelihood — the expected value. Good decisions under uncertainty (insurance, gambling, investing, screening tests) come from comparing expected values rather than reacting to single outcomes. It is the same distributional thinking that powers statistical inference: individual events are unpredictable, but their aggregate behavior is lawful.
 
-**Related:** [[The law of iterated expectations makes the future unforecastable]] · [[The four quadrants map where models are safe]] · [[The bell curve dismisses the jumps that matter most]]
+**Related:** [[The four quadrants map where models are safe]]

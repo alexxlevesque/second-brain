@@ -14,4 +14,4 @@ Third Quadrant. Simple payoffs in Extremistan: there is little harm in being wro
 Fourth Quadrant, the Black Swan Domain. Complex payoffs in Extremistan: that is where the problem resides; opportunities are present too.
 We need to avoid prediction of remote payoffs, though not necessarily ordinary ones. Payoffs from remote parts of the distribution are more difficult to predict than those from closer parts. Actually, the Fourth Quadrant has two parts: exposures to positive or negative Black Swans. I will focus here on the negative one (exploiting the positive one is too obvious, and has been discussed in the story of Apelles the painter, in Chapter 13).
 
-**Related:** [[Probability turns uncertainty into expected value]] · [[Better thinking requires a wide variety of accurate mental models]] · [[Traders and generals are in the same business]]
+**Related:** [[Probability turns uncertainty into expected value]] · [[Better thinking requires a wide variety of accurate mental models]]

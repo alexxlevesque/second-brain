@@ -17,5 +17,3 @@ Often children who survive extremely adverse childhoods have learned a particula
 This does not spare them suffering in the present, but it allows them not to be destroyed by it. Their strategic detachment does not guarantee that they will never know feelings of powerlessness, but it helps them not to be stuck there.
 
 We admire such children. But as parents we would like to offer our own children happier options.
-
-**Related:** [[A biased sample gives precise but wrong answers]]

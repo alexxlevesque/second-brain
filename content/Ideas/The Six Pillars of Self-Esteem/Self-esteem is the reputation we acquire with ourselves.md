@@ -12,4 +12,4 @@ As we have discussed, we are beings for whom consciousness (at the conceptual le
 
 The principle of living consciously is unaffected by degrees of intelligence. To live consciously means to seek to be aware of everything that bears on our actions, purposes, values, and goals—to the best of our ability, whatever that ability may be—and to behave in accordance with that which we see and know.
 
-**Related:** [[Identity-based habits vote for who you become]] · [[We choose our behavior]] · [[Do one thing with complete attention]]
+**Related:** [[Identity-based habits vote for who you become]]

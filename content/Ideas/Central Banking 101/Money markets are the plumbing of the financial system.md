@@ -7,4 +7,4 @@ tags:
   - finance
 ---
 
-Beneath the visible economy sits a network of short-term funding markets — repo, commercial paper, and interbank lending — where institutions borrow and lend cash overnight against collateral. This "plumbing" is invisible when it works and catastrophic when it clogs, as in 2008 and March 2020. It is also where [[The Fed sets the price of money, not its quantity]] takes physical effect, since the Fed steers these markets to hit its target rate, moving [[Bank reserves never leave the banking system|reserves]] between institutions.
+Beneath the visible economy sits a network of short-term funding markets — repo, commercial paper, and interbank lending — where institutions borrow and lend cash overnight against collateral. This "plumbing" is invisible when it works and catastrophic when it clogs, as in 2008 and March 2020. It is also where the Fed's rate-setting takes physical effect: the Fed steers these markets to hit its target rate, moving reserves between institutions.

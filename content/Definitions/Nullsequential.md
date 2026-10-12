@@ -19,4 +19,4 @@ Distinct from *inconsequential*: nullsequential is a structural, causal claim ab
 
 Antonym: *sequential.*
 
-**Related:** [[Statistics stay silent while vivid deaths outrage us]] · [[The cosmetic and the Platonic leave the unseen with no advocate]] · [[Survival is not evidence of a cause]]
+**Related:** [[Statistics stay silent while vivid deaths outrage us]]

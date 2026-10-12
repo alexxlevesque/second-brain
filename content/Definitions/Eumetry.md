@@ -13,4 +13,4 @@ tags:
 
 **Eumetric reciprocity** *(n.)* — the social equilibrium that holds only when both parties in an interaction maintain a eumetric disposition; it breaks down if one party over- or under-invests relative to the other.
 
-**Related:** [[The 10,000-hour rule of mastery]] · [[Do one thing with complete attention]] · [[Know the edges of your circle of competence]]
+**Related:** [[The 10,000-hour rule of mastery]] · [[Do one thing with complete attention]]

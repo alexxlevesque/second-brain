@@ -9,4 +9,4 @@ tags:
 
 Pleasure is something that doesn't exist physically it is an illusion that we experience when our pain decreases and the brain misinterpret the elimination of pain as pleasure. Buddhism says that everything is better. Once we experience the taste of pleasure we want more and more, and for that, we seek more pain.
 
-**Related:** [[Don't run for trains]] · [[Forgone Cost Fallacy]]
+**Related:** [[Forgone Cost Fallacy]]

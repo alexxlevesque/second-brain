@@ -17,5 +17,3 @@ The challenge for people today, and it is not an easy one, is to maintain high p
 Grounds for such a feeling are to be found in the behavior of our public figures, the horror of world events, and in our so-called art and entertainment, so much of which celebrates depravity, cruelty, and mindless violence. All contribute to making the practice of personal integrity a lonely and heroic undertaking.
 
 If integrity is a source of self-esteem, then it is also, and never more so than today, an expression of self-esteem.
-
-**Related:** [[Ten principles for a Black-Swan-robust society]]

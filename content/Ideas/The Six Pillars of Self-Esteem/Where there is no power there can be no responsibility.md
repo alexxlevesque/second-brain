@@ -14,4 +14,4 @@ The protection of self-esteem requires a clear understanding of the limits of pe
 
 The idea of Original Sin—of guilt where there is no possibility of innocence, no freedom of choice, no alternatives available—is anti-self-esteem by its very nature. The very notion of guilt without volition or responsibility is an assault on reason as well as on morality.
 
-**Related:** [[Responsibility over blame]] · [[We simplify because randomness will not fit in our heads]] · [[Survival is not evidence of a cause]]
+**Related:** [[Responsibility over blame]]

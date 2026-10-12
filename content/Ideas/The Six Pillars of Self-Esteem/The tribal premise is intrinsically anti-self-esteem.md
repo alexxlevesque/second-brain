@@ -13,5 +13,3 @@ Tribal societies can be totalitarian but they need not be. They can be relativel
 But there are other elements whose psychological effects are positive. A high regard for knowledge and learning. An understanding of the importance of being fully accountable for one's actions and commitments. A loving pride in work well done. In cultures of high diversity, it is more useful to think of the implications for self-esteem of specific beliefs or values rather than of the culture as a whole.
 
 What one can say as a generalization is that tribal cultures discount individuality and encourage dependency and to this extent may be characterized as unfriendly to self-esteem.
-
-**Related:** [[Cultural legacies shape behavior across generations]] · [[Practical intelligence is taught by upbringing, not innate]]

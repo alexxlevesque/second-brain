@@ -13,4 +13,4 @@ Better models mean better thinking. The degree to which our models accurately ex
 
 The quality of our thinking is largely influenced by the mental models in our heads. While we want accurate models, we also want a wide variety of models to uncover what's really happening. The key here is variety. Most of us study something specific and don't get exposure to the big ideas of other disciplines. We don't develop the multidisciplinary mindset that we need to accurately see a problem. And because we don't have the right models to understand the situation, we overuse the models we do have and use them even when they don't belong.
 
-**Related:** [[Observed success hides its real causes]] · [[We simplify because randomness will not fit in our heads]] · [[The cosmetic and the Platonic leave the unseen with no advocate]] · [[The four quadrants map where models are safe]]
+**Related:** [[The four quadrants map where models are safe]]

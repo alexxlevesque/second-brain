@@ -17,5 +17,3 @@ Studies disclose that many people in organizations do not trust those above them
 In most organizations, however, there are men and women whom others trust. Why? They keep their word. They honor their commitments.
 
 They don't just promise to stick up for their people, they do it. They don't just preach fairness, they practice it. They don't just counsel honesty and integrity, they live it.
-
-**Related:** [[The involuntary face leaks authentic emotion]]

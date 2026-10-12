@@ -12,4 +12,4 @@ But if I lack respect for and enjoyment of who I am, I have very little to giveâ
 
 We have all heard the observation, "If you do not love yourself, you will be unable to love others." Less well understood is the other half of the story. If I do not feel lovable, it is very difficult to believe that anyone else loves me. If I do not accept myself, how can I accept your love for me? Your warmth and devotion are confusing: it confounds my self-concept, since I "know" I am not lovable. Your feeling for me cannot possibly be real, reliable, or lasting. If I do not feel lovable, your love for me becomes an effort to fill a sieve, and eventually the effort is likely to exhaust you.
 
-**Related:** [[Basic needs drive all behavior]] Â· [[Speak and listen with full awareness]]
+**Related:** [[Basic needs drive all behavior]]
