@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Books
+    filters:
+      and:
+        - type == "book"
+    order:
+      - file.name
+      - author
+      - year
+      - consumed
+    sort:
+      - property: consumed
+        direction: DESC
+  - type: table
+    name: Ideas
+    filters:
+      and:
+        - type == "idea"
+    order:
+      - file.name
+      - source
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
