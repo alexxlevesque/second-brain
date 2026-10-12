@@ -4,7 +4,7 @@ title: Second Brain
 
 Ideas from the books I've read. Each idea is its own short note, linked to the book it came from and to related ideas from other books.
 
-Open a book to see its ideas listed under **Backlinks**, or open the graph to see how everything connects.
+Open a book to see its ideas listed under **Backlinks**, or open the full graph (the icon in the top-right corner of **Graph View**) to see how ideas connect across books.
 
 ## Books
 

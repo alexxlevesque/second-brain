@@ -170,6 +170,9 @@ plugins:
       globalGraph:
         depth: -1
         showTags: false
+        enableRadial: false
+        repelForce: 0.8
+        linkDistance: 25
     layout:
       position: right
       priority: 10
