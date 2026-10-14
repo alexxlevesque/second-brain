@@ -8,6 +8,7 @@ Open a book to see its ideas listed under **Backlinks**, or open the full graph 
 
 ## Books
 
+- [[How to Win Friends and Influence People]] · Dale Carnegie, 1936
 - [[The Six Pillars of Self-Esteem]] · Nathaniel Branden, 1994
 - [[Blink]] · Malcolm Gladwell, 2005
 - [[The Black Swan]] · Nassim Nicholas Taleb, 2007
