@@ -47,6 +47,8 @@ jobs:
         run: npx quartz build
       - name: Hide tag, folder and base pages from the graph
         run: node scripts/prune-graph.mjs
+      - name: Color graph nodes and show the full graph on the homepage
+        run: node scripts/patch-graph.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
