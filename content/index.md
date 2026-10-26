@@ -8,6 +8,7 @@ Open a book to see its ideas listed under **Backlinks**, or open the full graph 
 
 ## Books
 
+- [[A Random Walk Down Wall Street]] · Burton G. Malkiel, 1973
 - [[How to Win Friends and Influence People]] · Dale Carnegie, 1936
 - [[The Six Pillars of Self-Esteem]] · Nathaniel Branden, 1994
 - [[Blink]] · Malcolm Gladwell, 2005
