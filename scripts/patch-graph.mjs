@@ -5,6 +5,7 @@
 // - The homepage's graph panel shows the whole graph. The homepage itself is pruned from the
 //   graph (see prune-graph.mjs), so its usual depth-1 local graph was a single dot. The
 //   plugin normalizes the homepage slug "index" to "/".
+// - Labels ignore the pointer, so a neighbor's title drawn over a node can't steal its hover.
 // Matches the minified code exactly and fails the build if a plugin update changes it.
 import fs from "node:fs"
 import path from "node:path"
@@ -23,6 +24,11 @@ const PATCHES = [
     name: "homepage graph",
     find: 'var S=JSON.parse(_.dataset.cfg||"{}")',
     replace: `var S=Object.assign(JSON.parse(_.dataset.cfg||"{}"),g==="/"&&!_.closest(".global-graph-outer")?${JSON.stringify(HOMEPAGE_GRAPH)}:{})`,
+  },
+  {
+    name: "labels ignore pointer",
+    find: "Du.anchor.set(.5,1.2),Du.alpha=0",
+    replace: 'Du.anchor.set(.5,1.2),Du.eventMode="none",Du.alpha=0',
   },
 ]
 
@@ -45,4 +51,4 @@ for (const { name, find, replace } of PATCHES) {
   code = code.replace(find, () => replace)
 }
 fs.writeFileSync(file, code)
-console.log(`Patched graph colors and homepage graph in ${path.basename(file)}`)
+console.log(`Applied ${PATCHES.length} graph patches to ${path.basename(file)}`)

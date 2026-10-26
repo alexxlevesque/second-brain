@@ -167,9 +167,11 @@ plugins:
       localGraph:
         depth: 1
         showTags: false
+        opacityScale: 0.1 # labels fade in once zoom × opacityScale > 1; zoom maxes at 4, so labels only show on hover
       globalGraph:
         depth: -1
         showTags: false
+        opacityScale: 0.1
         enableRadial: false
         repelForce: 0.8
         linkDistance: 25
