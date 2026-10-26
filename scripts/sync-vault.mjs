@@ -5,7 +5,7 @@ import fs from "node:fs"
 import os from "node:os"
 import path from "node:path"
 
-const VAULT = path.join(os.homedir(), "Desktop", "Second Brain", "Books")
+const VAULT = path.join(os.homedir(), "Desktop", "Second Brain")
 const CONTENT = path.resolve(import.meta.dirname, "..", "content")
 const PUBLIC = ["Sources", "Ideas", "Definitions"]
 
