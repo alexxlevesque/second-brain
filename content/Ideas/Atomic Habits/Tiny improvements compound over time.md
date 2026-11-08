@@ -9,4 +9,4 @@ tags:
 
 Getting 1% better every day makes you ~37x better over a year; 1% worse compounds toward zero. Habits are the compound interest of self-improvement, but the results are delayed — you cross a "plateau of latent potential" where effort seems wasted before the breakthrough. This is the personal-development version of [[Accumulative advantage compounds small early leads]].
 
-**Related:** [[Lumpy rewards make success feel like continuous failure]]
+**Related:** [[Lumpy rewards make success feel like continuous failure]] · [[Progress is nonlinear, so most people quit before the payoff]]
