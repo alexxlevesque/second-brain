@@ -24,3 +24,16 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Claude ideas
+    filters:
+      and:
+        - type == "idea"
+        - file.hasTag("claude")
+    order:
+      - file.name
+      - source
+      - tags
+    sort:
+      - property: source
+        direction: ASC
