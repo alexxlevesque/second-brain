@@ -10,4 +10,4 @@ Dr. Dewey said that the deepest urge in human nature is 'the desire to be import
 
 If our ancestors hadn't had this flaming urge for a feeling of importance, civilization would have been impossible. Without it, we should have been just about like animals.
 
-**Related:** [[Basic needs drive all behavior]]
+**Related:** [[Basic needs drive all behavior]] · [[The kingmaker prefers influence to the throne]]
