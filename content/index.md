@@ -8,6 +8,7 @@ Open a book to see its ideas listed under **Backlinks**, or open the full graph 
 
 ## Books
 
+- [[Micromotives and Macrobehavior]] · Thomas C. Schelling, 1978
 - [[Harry Potter and the Half-Blood Prince]] · J.K. Rowling, 2005
 - [[Fooled by Randomness]] · Nassim Nicholas Taleb, 2001
 - [[A Random Walk Down Wall Street]] · Burton G. Malkiel, 1973
